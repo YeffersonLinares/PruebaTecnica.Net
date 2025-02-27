@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "U1eI62iUPiMwqIsr7UmN7qjDYxzn6j8G3WTqckGlRUo=",
+  "Source": "my-dotnet-postgres-api",
+  "BasePath": "_content/my-dotnet-postgres-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
